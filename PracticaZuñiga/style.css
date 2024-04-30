@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.boton-reinicio {
+  background-color: #f85151; /* Color de fondo */
+  color: white; /* Color del texto */
+  padding: 20px 20px; /* Relleno */
+  text-align: center; /* Alineación del texto */
+  display: inline-block;
+  font-size: 24px; /* Tamaño del texto */
+  font-weight: bold; /* Texto en negritas */
+  cursor: pointer; /* Cursor */
+}
+
